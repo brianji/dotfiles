@@ -11,6 +11,7 @@ call plug#begin()
 Plug 'arcticicestudio/nord-vim'
 Plug 'rust-lang/rust.vim'
 Plug 'tpope/vim-sensible'
+Plug 'vim-syntastic/syntastic'
 
 call plug#end()
 
