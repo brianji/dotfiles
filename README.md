@@ -1,2 +1,2 @@
 # Dotfiles
-My general Linux configuration files.
+My general Unix configuration files.
